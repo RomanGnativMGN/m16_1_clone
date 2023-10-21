@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         
         // первый комментарий
         
+        // второй комментарий
         
         // Do any additional setup after loading the view.
     }
